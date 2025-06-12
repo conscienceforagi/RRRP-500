@@ -1,0 +1,2 @@
+### RRRP500 111 Peace in Trials
+This dataset contains scripture-based moral teachings contextualized for AGI using RRRP format.

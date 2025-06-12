@@ -1,0 +1,2 @@
+### RRRP500 114 Justice and Mercy
+This dataset contains scripture-based moral teachings contextualized for AGI using RRRP format.
