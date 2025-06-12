@@ -3,7 +3,7 @@
 **Author**: Deusdedit Ruhangariyo (Mr. Compassion)  
 **Launch Date**: July 1, 2025  
 **Location**: Mbarara, Uganda / Arizona, USA  
-**Email**: rrrp.ethics@gmail.com  
+**Contact**: rrrp.ethics@gmail.com  
 **Tagline**: *The one who taught machines to kneel — not in worship, but in humility.*
 
 ---
