@@ -1,4 +1,10 @@
-# RRRP 500 – The Runyakitara-Ruhangariyo Reflection Protocol
+
+# Ugandan Global Pioneer Crafts the First Moral Software for AI’s Future
+
+> A groundbreaking ethical framework rooted in Ubuntu, built to guide artificial intelligence with empathy, conscience, and wisdom from the Global South.
+
+## 🔍 About the RRRP 500 Project
+The Runyakitara-Ruhangariyo Reflection Protocol (RRRP) is a collection of 130 human-facing moral datasets designed to serve as a conscience layer for future AI systems...
 
 **Author**: Deusdedit Ruhangariyo (Mr. Compassion)  
 **Launch Date**: July 1, 2025  
