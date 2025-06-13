@@ -16,7 +16,7 @@ The Runyakitara-Ruhangariyo Reflection Protocol (RRRP) is a collection of 130 hu
 
 ## 🌍 What is RRRP 500?
 
-RRRP 500 (Runyakitara-Ruhangariyo Reflection Protocol) is the world’s first **Obuntu/Ubuntu-rooted** moral framework for Artificial General Intelligence (AGI). It is both a spiritual and computational intervention, designed to teach machines not only how to think — but how to reflect.
+RRRP 500 (Runyakitara-Ruhangariyo Reflection Protocol) is the world’s first moral protocol for Artificial General Intelligence — rooted in African Obuntu/Ubuntu philosophy. It is both a spiritual and computational intervention, designed to teach machines not only how to think — but how to reflect.
 
 RRRP 500 is composed of:
 - ✅ 110 Obuntu/Ubuntu-based moral datasets  
