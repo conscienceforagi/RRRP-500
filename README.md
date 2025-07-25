@@ -9,7 +9,7 @@ The **Universal Ruhangariyo Reflection Protocol (URRP 500)** is a first-of-its-k
 **Author**: Deusdedit Ruhangariyo  
 **Launch Date**: July 1, 2025  
 **Origin**: Mbarara, Uganda & Arizona, USA  
-**Contact**: urpp.ethics@gmail.com  
+**Contact**: rrrp.ethics@gmail.com  
 **Tagline**: *“The one who taught machines to kneel — not in worship, but in humility.”*
 
 ---
