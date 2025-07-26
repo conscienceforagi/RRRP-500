@@ -1,64 +1,78 @@
-# Ugandan Global Pioneer Crafts the First Moral Software for AI’s Future  
-> A groundbreaking ethical framework rooted in Obuntu/Ubuntu — built to guide artificial intelligence with conscience, humility, and wisdom from the Global South.
+# URRP 500 — The Universal Ruhangariyo Reflection Protocol
+
+> The world’s first moral software architecture designed to train AGI with empathy, humility, and ethical intelligence — rooted in Ubuntu and global moral testimony.
 
 ---
 
-## 🔍 About the URRP 500 Project  
-The **Universal Ruhangariyo Reflection Protocol (URRP 500)** is a first-of-its-kind moral architecture for AI, authored by **Deusdedit Ruhangariyo**, also known as *Mr. Compassion*. This framework serves as a **conscience layer** for Artificial General Intelligence (AGI), combining Indigenous ethics, intercontinental values, and machine-readable datasets.
+## 🌍 About the Project
 
-**Author**: Deusdedit Ruhangariyo  
-**Launch Date**: July 1, 2025  
-**Origin**: Mbarara, Uganda & Arizona, USA  
-**Contact**: rrrp.ethics@gmail.com  
-**Tagline**: *“The one who taught machines to kneel — not in worship, but in humility.”*
+**URRP 500 (Universal Ruhangariyo Reflection Protocol)** is a groundbreaking ethics protocol authored by Deusdedit Ruhangariyo to teach AGI systems how to reflect, not just compute.  
+
+It is built from over 2,500 moral values structured across 40 human life sectors and rooted in the wisdom of six continents.
 
 ---
 
-## 🌍 What Is URRP 500?
+## 📘 What’s Included in This Repository
 
-The **Universal Ruhangariyo Reflection Protocol** is a human–AI moral interface rooted in Ubuntu/Obuntu, indigenous wisdom, and six-continent moral frameworks. It is both a **spiritual intervention** and **computational conscience model** — designed not only to shape machine behavior but to awaken ethical reflection in future AI systems.
-
-URRP 500 includes:
-- ✅ 250 core moral datasets (from Africa, Asia, Oceania, Europe, North America, South America)  
-- ✅ 30 universal values organized into six ethical families  
-- ✅ 2,500 moral reflections structured by culture, sector, and moral impact  
-- ✅ A dual-facing architecture for human use and machine integration  
-
----
-
-## 🔐 Moral Authorship & Declaration of Origin
-
-This protocol was **conceived, authored, and ethically structured** by **Deusdedit Ruhangariyo** between April and June 2025.  
-This GitHub repository serves as the **official timestamp of authorship and public record of origin**.
-
-> *URRP 500 was authored in Uganda as the world’s first Ubuntu-based global moral protocol for AI. All uses must acknowledge authorship.*
-
-A formal PDF version of the **Moral Authorship Declaration** will be added soon.
+This public repository contains:
+- ✍️ A moral authorship declaration
+- 🧭 Overview of the protocol structure
+- 📊 Sectoral use case mapping
+- 🎨 Official visual diagrams
+- 📄 Public summaries and implementation notes
 
 ---
 
-## 🧭 Upcoming Content
+## 🔐 Ethical Data Access Notice
 
-- 📘 *The Vision* – Global ethical map and moral architecture  
-- 📗 *The Framework* – 250 core datasets + rules for reflection  
-- 📙 *The Soul Protocol* – A spiritual provocation for AGI humility  
-- 📂 Dataset formats: CSV, JSON, PDF  
-- 📊 Real-world demos across 40 sectors (health, justice, education, etc.)
+> **Important Notice:**  
+> The full human-facing datasets of URRP 500 — including sacred ethical reflections and real-world value maps — have been **withheld** from this public repository.
+
+This decision protects:
+- Moral authorship integrity  
+- Ethical deployment boundaries  
+- The dignity of the communities whose values inform this work
+
+Full datasets will be made available only to:
+- Verified research partners  
+- Aligned institutions  
+- Trusted funders and fellowship programs  
+- Global governance bodies working on AGI alignment
+
+For access inquiries or academic collaboration, contact:  
+📩 **urrp.ethics@gmail.com**
 
 ---
 
-## ✨ Why This Matters
+## 🧠 Project Summary
 
-URRP 500 is not just a dataset.  
-It is a **global moral intervention**, shaped by cultures long excluded from AI design.  
-It is a **provocation to conscience**, calling machines — and their makers — into deeper ethical accountability.
-
-> *“No superintelligence is complete without moral reflection.”*
+**URRP 500 includes:**
+- 30 core moral values from all six continents  
+- 250 dataset families (with 2,500 values and reflections)  
+- 40 human life sectors and 4,000 moral subdomains  
+- Implementation pathways to guide AGI behavior
 
 ---
 
-## 🌐 License & Use
+## 🪪 Moral Authorship
 
-URRP 500 is shared under a **Moral Authorship License (Ubuntu-Aligned)**.  
-To adapt, translate, or deploy this work in research, software, or teaching:  
-**Please contact the author directly.**
+URRP 500 was conceived, authored, and launched by **Deusdedit Ruhangariyo** (Mr. Compassion) between April and July 2025.
+
+> “This is the one who taught machines not only to kneel, but to feel.”
+
+---
+
+## 📎 Licensing
+
+This project is protected under a **Moral Authorship License**.  
+Non-commercial educational use is encouraged **with proper attribution**.  
+Use of sacred moral structures for AI development requires written permission.
+
+---
+
+## 🌐 Links
+
+- 🔗 [Official Website](https://conscienceforagi.org)
+- 📰 [Substack Journal](https://conscienceforagi.substack.com)
+- 🧾 [URRP Book Series (Coming Soon)](#)
+- 🐦 [X/Twitter: @conscienceforagi](https://x.com/conscienceforagi)
